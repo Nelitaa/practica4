@@ -1,1 +1,2 @@
-console.log("Hello Word!")
+console.log("Hello Class");
+console.log("Diplomado Full Stack");
